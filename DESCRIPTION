@@ -1,4 +1,4 @@
-Package: Shinypkg
+Package: ShinyAPI
 Type: Package
 Title: Plot vote approve
 Version: 1.0
